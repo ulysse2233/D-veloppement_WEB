@@ -16,7 +16,7 @@ body{
     margin:0px; 
     top: 50%;
     left: 50%;
-    font-family: "Roboto", sans-serif;
+    font-family: "Helvetica", sans-serif;
     } 
     #header{ 
     height: 240px; 
@@ -169,7 +169,7 @@ float: left;
 }
   
 .card-front {
-    background-image:url('rolls.jpg');
+    background-image:url('rolls.jpeg');
     background-size:cover;
     background-position:center center;
     display:flex;
@@ -365,10 +365,10 @@ list-style: none;
 }
 
 .wrapper ul li a {
-     width: 60px;
-   padding: 16px 0;
-   display: block;
-   color: #fff;
+    width: 60px;
+    padding: 16px 0;
+    display: block;
+    color: #fff;
 }
 
 ul li:nth-child(1){
